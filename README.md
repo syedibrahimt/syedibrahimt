@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @syedibrahimt
-- 👀 I’m interested in Jobs
-- 🌱 I’m currently learning Storybook
+- 👀 I’m interested in interesting mobile apps
+- 🌱 I’m currently learning Flutter
 - 💞️ I’m looking to collaborate on React Native projects
 - 📫 How to reach me syedibrahim.developer@gmail.com / https://www.linkedin.com/in/syed-developer/ 
 

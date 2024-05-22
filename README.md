@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @syedibrahimt
-- 👀 I’m interested in interesting mobile apps
-- 🌱 I’m currently learning Flutter
-- 💞️ I’m looking to collaborate on React Native projects
+- 👀 I’m interested in interesting web & mobile apps
+- 🌱 I’m currently learning NodeJS + Mongo
+- 💞️ I’m looking to collaborate on ReactJS React Native projects
 - 📫 How to reach me syedibrahim.developer@gmail.com / https://www.linkedin.com/in/syed-developer/ 
 
 <!---
